@@ -2,7 +2,7 @@
 
 This project explores the effectiveness of various machine learning models in predicting optimal ingredient substitutions based on nutritional content and flavor similarity. It addresses the challenge of identifying suitable ingredient alternatives for individuals with dietary restrictions or allergies while maintaining similar nutritional value and flavor profiles.
 
-This project is for the Machine Learning course of Vrije Universiteit.
+This project is for the Machine Learning course at Vrije Universiteit.
 
 ## Features
 
